@@ -1,0 +1,29 @@
+NFSMW-NX - PARTIDA XBOX 360 2005 - V6 FINAL
+
+CONTENIDO
+Este paquete contiene la partida Xbox 360 de Need for Speed Most Wanted 2005,
+convertida para que nfsmw-nx la reconozca como perfil SK.
+
+INSTALACION GENERICA
+1. En la Switch, inicia el juego y crea/carga un perfil llamado SK para que el
+   port genere su propia carpeta de guardado.
+2. Cierra el juego y apaga la Switch antes de retirar la microSD.
+3. En la microSD, busca la carpeta "nfsmw" dentro de la carpeta del port.
+4. Dentro de ella, localiza la ruta de contenido que termina exactamente en:
+   00000001\SK\SK
+   La parte anterior puede cambiar entre instalaciones o perfiles.
+5. Haz una copia del archivo SK original.
+6. Copia el archivo SK de este paquete y reemplaza solamente el archivo SK final.
+7. No reemplaces la carpeta Headers ni el archivo SK.header.
+8. Expulsa la microSD de forma segura, inicia el juego y carga el perfil SK.
+
+RUTA DE EJEMPLO
+switch\nfsmw-nx\nfsmw\B13EBABEBABEBABE\454107D9\00000001\SK\SK
+La ruta de ejemplo no tiene que ser idéntica en todas las consolas; lo
+importante es localizar la carpeta de guardado que la propia Switch generó.
+
+IMPORTANTE
+- Haz una copia de la carpeta nfsmw antes de reemplazar archivos.
+- No copies este archivo como partida PC.
+- No borres la carpeta Headers ni el archivo SK.header de la Switch.
+- Esta partida corresponde a Most Wanted 2005 Xbox 360, Title ID 454107D9.
